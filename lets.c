@@ -1,10 +1,4 @@
 #include<stdio.h>
-dfsdf
-sdf
-sdf
-sd
-fsd
-f
 
 main()
 {
