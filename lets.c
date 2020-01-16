@@ -1,7 +1,9 @@
 #include<stdio.h>
 
-main()
+void main()
 {
-    printf("c test");
+    char c;
+    c='\0';
+    printf("%c",c);
 
 }
