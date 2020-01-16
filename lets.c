@@ -1,7 +1,8 @@
 #include<stdio.h>
 
-main()
+void main()
 {
+
     printf("branch print");
 
 
