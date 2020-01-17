@@ -2,8 +2,8 @@
 
 void main()
 {
-    char c;
-    c='\0';
-    printf("%c",c);
+
+    printf("branch print");
+
 
 }
